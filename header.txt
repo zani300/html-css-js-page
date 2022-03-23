@@ -4,3 +4,10 @@ Changes from <first>
 
 Text from main: new changes!!!
 
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
